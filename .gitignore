@@ -4,3 +4,4 @@
 *.xlsx
 .DS_Store
 .claude/settings.local.json
+!.env.example
