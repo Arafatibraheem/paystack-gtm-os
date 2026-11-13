@@ -1,11 +1,13 @@
 # Paystack GTM Context OS
 
 ## Company
-Paystack (paystack.com): to fill in after research.
+Paystack (paystack.com): a payment service provider for online and in-person payments for African businesses. Part of The Stack Group (with Paystack Microfinance Bank, Zap and TSG Labs), with Stripe as a shareholder. Live in Nigeria, Ghana, Kenya, South Africa and Côte d'Ivoire, with approvals in Egypt and Rwanda. Source: `context/docs/research/company.md`.
 
 ## How this folder works
 - `.claude/skills/`: reusable Claude skills for GTM tasks (listed below). Read when a task matches a skill.
 - `context/icp/`: ideal customer profiles and segments. Read before any targeting, prospecting or campaign work.
+  - `icp.md`: five-layer ICP (firmographic, technographic, intent signals, persona, engagement readiness), non-fits and open questions.
+  - `personas.md`: champion, economic buyer and influencer personas.
 - `context/positioning/`: positioning, category and competitive differentiation. Read before writing anything that compares or pitches.
 - `context/messaging/`: approved messaging, value props and proof points. Read before writing any copy.
 - `context/brand-kit/`: voice, tone, visual and naming guidelines. Read before producing any customer-facing asset.
